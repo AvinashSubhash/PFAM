@@ -1,2 +1,1 @@
-# PFAM
-Personal Finance Management Application
+application-details.txt
